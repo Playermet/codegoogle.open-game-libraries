@@ -1,0 +1,22 @@
+#summary Easily access files from compressed archive files(zip) or normal files using the same intuitive interface
+
+== Description ==
+The interface is loosely based on idTech's filesystem and has some additional features.<br/>
+So if you are currently using idTech's filesystem, you should be able to easily adapt your code to use this library.
+
+== Features ==
+ * Compressed zip file loading
+ * Endian safe file reading and writing (Little Endian)
+ * Win32, Linux and possibly mac compatible
+ * Mod directory support
+ * Configurable ( different save locations, own checksum calculation, .. )
+ * Various possibilities to restrict access to specific filetypes and archives only.
+  * ( For example for lightweight servers, but fully checked clients )
+ * Full Unicode support (UTF-8)
+
+== List of authors ==
+* Santo Pfingsten (TTK-Bandit)
+
+== Dependencies ==
+* [http://www.zlib.net/ zLib]
+* [LibraryCommon Common Library]
