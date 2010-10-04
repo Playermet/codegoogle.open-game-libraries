@@ -1,4 +1,4 @@
-#summary The Audio library is a really easy to use Interface for using OpenAL to play 3D audio
+#summary Really easy to use Interface for using OpenAL to play 3D audio
 
 == Features ==
  * Ogg/Vorbis & Wave file loading
