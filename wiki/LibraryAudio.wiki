@@ -1,0 +1,14 @@
+#summary The Audio library is a really easy to use Interface for using OpenAL to play 3D audio
+
+== Features ==
+ * Ogg/Vorbis & Wave file loading
+ * Different sound properties stored in [DeclFile .decl] files.
+
+== List of authors ==
+ * Santo Pfingsten ([http://sourceforge.net/users/ttk-bandit TTK-Bandit])
+
+== Dependencies ==
+ * [http://www.vorbis.com/ libOgg / libVorbis]
+ * [http://connect.creativelabs.com/openal/default.aspx OpenAL]
+ * [LibraryCommon Common Library]
+ * [LibraryFileSystem FileSystem Library]
