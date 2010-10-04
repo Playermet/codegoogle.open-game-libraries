@@ -1,8 +1,10 @@
 #summary OpenGL window creation and keyboard/mouse input
 
 == Description ==
-The `Open`*GL* *O*`bject` *O*`riented` *T*`oolkit` is a library similar to SDL, GLFW, SFML, etc.<br/>
-Its sole purpose is to create OpenGL windows and capture input from the user.<br/>
+The `Open`*GL* *O*`bject` *O*`riented` *T*`oolkit` is a library similar to SDL, GLFW, SFML, etc,<br/>
+but it is quite different as its sole purpose is to create OpenGL windows, handle monitors and<br/>
+capture keyboard & mouse input from the user. Everything else does not belong here.
+
 Gloot uses some (heavily rewritten) code from GLFW 2.6 ( Camilla Berglund, http://glfw.sourceforge.net/ ).
 
 == Features ==
