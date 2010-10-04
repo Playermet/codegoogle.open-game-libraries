@@ -1,0 +1,17 @@
+#summary Lightweight library for loading ( and saving ) image files into OpenGL with various loading options
+
+== Features ==
+ * TGA, PNG, JPEG, DDS file loading
+ * TGA, PNG, JPEG file storing
+ * [ImageQuality RoundDown and PicMip] at load time 
+ * Min/Mag filter changes in runtime
+ * Reload All Images (when changes where done or the gl context was lost)
+
+== List of authors ==
+ * Santo Pfingsten (TTK-Bandit)
+
+== Dependencies ==
+ * [http://www.ijg.org/ libJPEG]
+ * [http://www.libpng.org/pub/png/libpng.html libPNG]
+ * [LibraryCommon Common Library]
+ * [LibraryFileSystem FileSystem Library]
