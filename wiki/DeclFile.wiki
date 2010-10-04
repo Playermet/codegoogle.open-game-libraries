@@ -1,45 +1,54 @@
-#summary .xdecl files are Parser Friendly Text Files containing nested information that can later be accessed using the XDeclParser
+#summary .decl files are Parser Friendly Text Files, containing simple information that can later be accessed using the DeclParser
 
 == Description ==
 
-You could, for example, store the description for a Graphical User Interface or a Heads Up Display inside a .xdecl file.
+You could, for example, store sound attributes or entity definitions inside a .decl file.
 
 == Examples ==
-You start of writing the type of the node, followed by round brackets, which can contain attributes seperated by comma.<br/>
-Then if you don't need more, you can close it with a semicolon or add more attributes and subnodes within { }.<br/>
+You can store multiple declarations in one file. Starting with the decl Type followed by the name and a set of key/value pairs encapsuled in { }<br/>
+Notice the *inherit* key/value set, which says "inherit all properties of the specified declaration".<br/>
+Since inherit will be solved after parsing files, it doesn't matter in what file or at what position in the file the base declaration is.
 
-An hud .xdecl file could look like this:
+An entity .decl file could look like this:
 {{{
- hud( name='Default Hud' ) {
-   author = 'TTK-Bandit & Ensiform';
-   // Health Status Group
-   group( point='535 420', size='100 50' ) {
-     group( point='0 0', size='100 20' ) {
-       image( point='0 0', size='100 20', src='gfx/healthprogressback.tga' );
-       progressbar( point='2 0', size='96 20', src='gfx/healthprogress.tga', link='player_healthpc', flags='0', colorForHealth='1' );
-     }
-     text( point='0 30', size='100 20', link='player_health', format='%s HP', family='lucida', fontSize='20', align='1', colorForHealth='1' );
-   }
+ entityDecl player {
+ 	"entityType"	"ogPlayer"
+ 	"health"		"100"
+ 	"maxhealth"		"100"
+ 	"armor"			"100"
+ 	"maxarmor"		"100"
+ }
  
-   // FPS Display
-   text( point='530 10', size='100 16', link='fps', visible='fps', format='^3%s fps', family='lucida', fontSize='16', align='1', color='1 1 0 1' );
- 
-   // Some Image
-   image( point='0 360', size='120 120', src='gfx/tuxedo.png' );
+ entityDecl moveable_base {
+ 	"entityType"	"ogMoveable"
+ 	"speed"		"10"
+ }
+ entityDecl moveable_box {
+ 	"inherit"	"moveable_base"
+ 	"maxDistance"	"8"
  }
 }}}
 
-Notice how attributes can be set inside the round brackets, separated by comma but also can be set inside the { } brackets.
+A sound .decl file could look like this:
 {{{
- image( point='0 360', size='120 120', src='gfx/tuxedo.png' );
-}}}
-creates the same results as:
-{{{
- image( point='0 360', size='120 120' ) {
-   src = 'gfx/tuxedo.png';
+ soundDecl vehicles_helicopter {
+ 	"minDistance"	"1"
+ 	"maxDistance"	"20"
+ 	"volume"	"1"
+ 	"loop"		"1"
+ 
+ 	"sound"		"sounds/helicopter.wav"
+ }
+ 
+ soundDecl ambience_fire {
+ 	"minDistance"	"1"
+ 	"maxDistance"	"20"
+ 	"volume"	"1"
+ 	"loop"		"1"
+ 
+ 	"sound"	"sounds/fire.ogg"
  }
 }}}
-
 == See Also ==
  * XDeclFile description
  * ParserFriendlyTextFiles
