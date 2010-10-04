@@ -15,8 +15,8 @@ So if you are currently using idTech's filesystem, you should be able to easily 
  * Full Unicode support (UTF-8)
 
 == List of authors ==
-* Santo Pfingsten (TTK-Bandit)
+ * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
-* [http://www.zlib.net/ zLib]
-* [LibraryCommon Common Library]
+ * [http://www.zlib.net/ zLib]
+ * [LibraryCommon Common Library]
