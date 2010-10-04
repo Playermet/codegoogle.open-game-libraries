@@ -50,5 +50,5 @@ A sound .decl file could look like this:
  }
 }}}
 == See Also ==
- * XDeclFile description
- * ParserFriendlyTextFiles
+ * [XDeclFile .decl description]
+ * [ParserFriendlyTextFiles Parser Friendly Text Files]
