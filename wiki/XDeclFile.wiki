@@ -41,5 +41,5 @@ creates the same results as:
 }}}
 
 == See Also ==
- * DeclFile description
- * ParserFriendlyTextFiles
+ * [DeclFile .decl description]
+ * [ParserFriendlyTextFiles Parser Friendly Text Files]
