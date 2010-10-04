@@ -1,0 +1,19 @@
+#summary Developer Console with customizable commands and variables
+
+== Description ==
+The *Console* library consists of 3 parts:
+ * CVarSystem
+ * CmdSystem
+ * Console Window
+  * Win32: A real window with a RichText log field and background image.
+  * Linux: TTY Console (capable of remote control)
+  * MacOS: Will probably be like Win32 too.
+
+This offers the possibility of easily adding console commands, cvars and using them in runtime to develop/debug a game.<br/>
+It will also be possible to access the log & autocompletion features for ingame use.
+
+== List of authors ==
+ * Santo Pfingsten (TTK-Bandit)
+
+== Dependencies ==
+ * [LibraryCommon CommonLibrary]
