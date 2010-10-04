@@ -1,0 +1,9 @@
+#summary Force, Axis, Buttons Light and Easy ( simply said gamepad input management )
+
+= Details =
+ * Win32 DirectInput and XInput working together ( XInput comes first )
+ * Linux & Mac code needs to be done
+ * Force Feedback API needs to be defined.
+
+== List of authors ==
+ * Santo Pfingsten (TTK-Bandit)
