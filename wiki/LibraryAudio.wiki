@@ -5,7 +5,7 @@
  * Different sound properties stored in [DeclFile .decl] files.
 
 == List of authors ==
- * Santo Pfingsten ([http://sourceforge.net/users/ttk-bandit TTK-Bandit])
+ * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
  * [http://www.vorbis.com/ libOgg / libVorbis]
