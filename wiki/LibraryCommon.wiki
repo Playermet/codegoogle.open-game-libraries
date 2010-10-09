@@ -50,3 +50,6 @@ system information retrieval and other usefull things that make your everyday ga
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
  * Ensiform
+
+== Dependencies ==
+ * None
