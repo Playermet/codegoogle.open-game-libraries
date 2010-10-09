@@ -39,3 +39,6 @@ Gloot uses some (heavily rewritten) code from GLFW 2.6 ( Camilla Berglund, http:
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
  * Some Code used from: [http://glfw.sourceforge.net/ Camilla Berglund]
+
+== Dependencies ==
+ * [LibraryCommon Common]
