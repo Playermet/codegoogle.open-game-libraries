@@ -8,44 +8,57 @@ This library contains various container types, math objects, string processing,<
 system information retrieval and other usefull things that make your everyday game code a lot easier.
 
 == Classes and Features ==
-( fixme: this is still a little outdated )
 
  * Containers:
-  * List (list growing with a granularity for faster memory allocation)
-  * ListEx (optimized for bigger items)
-  * LinkedList (optimized for fast insert/remove)
-  * Queue &amp; Stack (push &amp; lists)
-  * StringList (string lists using ListEx)
-  * CmdArgs (base class commandline functions will receive to get arguments)
-  * StringPool &amp; PoolString (store less copies of often used strings in memory)
-  * HashIndex (Fast access to string based indices)
-  * Dict &amp; KeyValue (fast access dictionaries for things like entity settings)
+  * Allocator (allocates a list of objects instead of manually allocating each object)
+  * CmdArgs (tokenizes a string into command-line arguments)
+  * Dict/DictEx (fast access dictionaries for things like entity settings)
   * DynBuffer (easy buffer allocation/resizing/freeing)
-  * Allocator (for faster allocation of objects)
+  * HashIndex (Fast access to string based indices)
+  * List classes
+   * LinkedList (optimized for fast insert/remove)
+   * List (list growing with a granularity for faster memory allocation)
+   * ListEx (optimized for bigger items)
+    * StringList (string lists)
+  * StringPool/PoolString (store less copies of often used strings in memory)
+  * Queue/Stack (push & pop lists)
+
+ * Hash:
+  * Hash ( Compute 32 and 64 bit hashes of strings )
+  * SecureHash ( Secure Hash Algorithm: SHA1 )
 
  * Math (Fast Game-specific Calculation):
-  * Angles
-  * Vec2/Vec3|3/Vec4|4/Vec5|5/VecX|X
-  * Quat (quaternions)
-  * Mat2/Mat3|33 (2x2/3x3 Matrices)
-  * Rect (for gui/hud stuff)
+  * Angles (pitch, yaw, roll)
   * Bounds (mins/maxs)
-  * Random
+  * Matrix classes (2x2, 3x3)
+  * Vector classes (2, 3, 4, 5, X dimensions)
+  * Quat (quaternions)
+  * Random number generator
+  * Rect (for gui/hud stuff)
   * Lots of speed optimized Math functions & constants
 
  * Text:
-  * String (UTF-8)
   * Lexer (UTF-8 text file parser)
-  * DeclParser (.decl file parser)
-  * XDeclParser (.xdecl file parser)
-  * Utilities (VA, FloatArrayToString and other useful utilities)
+  * Parsers:
+   * DeclParser (.decl file parser)
+   * XDeclParser (.xdecl file parser)
+  * String (UTF-8)
+  * TextStream (for formatting text)
+
+ * Thread:
+  * Basic Threading: (some thread helpers until c++0x is usable)
+   * Condition
+   * Mutex
+   * Single-Writer-Multiple-Readers
+   * Thread
+  * LockFreeQueue (use for single producer and single consumer only)
+  * LowLockQueue (multiple producer + multiple consumer)
 
  * Misc:
-  * Timer (For Profiling)
-  * DateTime (Retrieve date &amp; time)
   * Color
   * SysInfo (retrieves CPU, RAM and OS information)
-  * SecureHash (SHA algorithm)
+   * DateTime (Retrieve date & time)
+  * Timer (for Profiling)
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
