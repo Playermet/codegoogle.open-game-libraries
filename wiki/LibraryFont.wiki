@@ -12,6 +12,6 @@ This is not working with OpenGL 3, tho I'd like to add support for it.
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
- * [LibraryImage Image Library]
- * [LibraryFileSystem FileSystem Library]
- * [LibraryCommon Common Library]
+ * [LibraryImage Image]
+ * [LibraryCommon Common]
+ * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
