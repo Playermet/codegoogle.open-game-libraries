@@ -9,6 +9,6 @@
 
 == Dependencies ==
  * [http://www.vorbis.com/ libOgg / libVorbis]
- * [http://connect.creativelabs.com/openal/default.aspx OpenAL]
- * [LibraryCommon Common Library]
- * [LibraryFileSystem FileSystem Library]
+ * [http://kcat.strangesoft.net/openal.html OpenAL Soft]
+ * [LibraryCommon Common]
+ * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
