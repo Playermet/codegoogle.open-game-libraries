@@ -17,3 +17,7 @@ Model Import for:
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
+
+== Dependencies ==
+ * [LibraryCommon Common]
+ * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
