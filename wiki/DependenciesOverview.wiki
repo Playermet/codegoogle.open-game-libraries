@@ -1,0 +1,58 @@
+#summary An overview of all dependencies
+
+== List of dependencies ==
+(3rd party libraries, not needed for all libraries)
+ * [http://www.ijg.org/ libJPEG]
+ * [http://www.libpng.org/pub/png/libpng.html libPNG]
+ * [http://www.zlib.net/ zLib]
+ * [http://www.vorbis.com/ libOgg / libVorbis]
+ * [http://kcat.strangesoft.net/openal.html OpenAL Soft]
+ * [http://www.opengl.org/ OpenGL]
+ * [http://msdn.microsoft.com/en-us/directx/default.aspx Direct-X]
+ * [http://vld.codeplex.com/ Visual Leak Detector 2.0b] ( optional )
+
+== Details ==
+
+This shows by which libraries these dependencies are used by:
+ * libJPEG and libPNG
+  * Image
+   * Font
+ * zLib
+  * libPNG
+  * FileSystem
+ * libOgg and libVorbis
+  * Audio
+ * OpenAL Soft
+  * Audio
+ * OpenGL
+  * Gloot
+ * Direct-X
+  * Fable
+ * Visual Leak Detector 2.0b
+  * All OG Libraries
+ * Common
+  * Audio
+  * Console
+  * Fable
+  * FileSystem
+  * Font
+  * Gloot
+  * Image
+  * Model
+ * FileSystem ( I'll try to separate it as much as possible soon )
+  * Audio
+  * Console
+  * Common ( optional )
+  * Gloot
+  * Image
+   * Font
+  * Model
+ * Image
+  * Font
+
+That Common is used by all OG Libraries does not mean that they are needed in the interface of those libraries too.<br/>
+For example you don't need to use classes from the Common library to access the Gloot interface.<br/>
+This shows which libraries actually use classes from the Common library in their interface:
+ * Audio
+ * Console
+ * Model
