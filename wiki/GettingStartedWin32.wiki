@@ -1,0 +1,19 @@
+#summary Small Introduction on how to get started with Win32 programming on the OG libraries:
+
+== What you need ==
+ * A C++ IDE, I'd recommend Visual C++ 2008, since there is also a free version ( Express Edition )
+ * [http://vld.codeplex.com/ Visual Leak Detector 2.0b] ( you can do without by uncommenting the OG_VISUAL_LEAK_DETECTOR define in the Setup.h )
+ * [http://www.microsoft.com/downloads/en/details.aspx?displaylang=en&FamilyID=3021d52b-514e-41d3-ad02-438a3ba730ba Direct-X SDK] ( If you want to use [LibraryFable Fable] )
+ * [http://industriousone.com/premake Premake 4] (if you want to update/create project or make files)
+
+== How to set up ==
+ # Install your IDE
+ # [http://vld.codeplex.com/documentation Install and set up Visual Leak Detector]
+ # Install the Direct-X SDK and set it up the same way as VLD ( add include and library directories to your IDE )
+ # If you don't use Visual Studio 2008, you'll need to create project/make files for your IDE. Check out Premake4 for how to do it.
+ # Load and build all solutions in this order:
+  # Thirdparty
+  # Libraries
+  # Examples
+
+Correct me if I missed something.
