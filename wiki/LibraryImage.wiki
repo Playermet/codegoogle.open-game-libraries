@@ -13,5 +13,5 @@
 == Dependencies ==
  * [http://www.ijg.org/ libJPEG]
  * [http://www.libpng.org/pub/png/libpng.html libPNG]
- * [LibraryCommon Common Library]
- * [LibraryFileSystem FileSystem Library]
+ * [LibraryCommon Common]
+ * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
