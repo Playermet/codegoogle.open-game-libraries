@@ -8,7 +8,7 @@
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
+ * [LibraryShared Shared]
+ * [LibraryCommon Common]
  * [http://www.vorbis.com/ libOgg / libVorbis]
  * [http://kcat.strangesoft.net/openal.html OpenAL Soft]
- * [LibraryCommon Common]
- * [LibraryShared Shared]
