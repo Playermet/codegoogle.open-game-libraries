@@ -18,6 +18,9 @@ Model Import for:
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
 
+== Interface ==
+`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Model/Model.h og/Model/Model.h]`>`
+
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
