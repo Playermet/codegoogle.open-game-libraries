@@ -17,6 +17,10 @@ So if you are currently using idTech's filesystem, you should be able to easily 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
 
+
+== Interface ==
+`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/FileSystem/FileSystem.h og/FileSystem/FileSystem.h]`>`
+
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
