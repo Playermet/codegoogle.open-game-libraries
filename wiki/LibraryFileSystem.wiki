@@ -18,5 +18,6 @@ So if you are currently using idTech's filesystem, you should be able to easily 
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
- * [http://www.zlib.net/ zLib]
+ * [LibraryShared Shared]
  * [LibraryCommon Common]
+ * [http://www.zlib.net/ zLib]
