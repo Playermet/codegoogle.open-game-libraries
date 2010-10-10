@@ -28,5 +28,8 @@ This is needed by all libraries, gives commonly used features like FileSystemCor
  * Santo Pfingsten (TTK-Bandit)
  * Ensiform
 
+== Interface ==
+`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/Shared.h og/Shared/Shared.h]`>`
+
 == Dependencies ==
  * None
