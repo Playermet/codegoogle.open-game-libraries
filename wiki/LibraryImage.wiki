@@ -14,4 +14,4 @@
  * [http://www.ijg.org/ libJPEG]
  * [http://www.libpng.org/pub/png/libpng.html libPNG]
  * [LibraryCommon Common]
- * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
+ * [LibraryShared Shared]
