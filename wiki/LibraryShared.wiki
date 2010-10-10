@@ -20,8 +20,11 @@ This is needed by all libraries, gives commonly used features like FileSystemCor
   * LockFreeQueue (use for single producer and single consumer only)
   * LowLockQueue (multiple producer + multiple consumer)
 
+ * Timer (for Profiling)
+
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
+ * Ensiform
 
 == Dependencies ==
  * None
