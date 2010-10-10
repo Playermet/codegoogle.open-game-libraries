@@ -16,6 +16,6 @@ It will also be possible to access the log & autocompletion features for ingame 
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
+ * [LibraryShared Shared]
  * [LibraryCommon Common]
  * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
- * [LibraryShared Shared]
