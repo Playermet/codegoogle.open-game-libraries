@@ -8,6 +8,8 @@ This is needed by all libraries, gives commonly used features like FileSystemCor
  * FileSystemCore Interface
   * Use this to add your own filesystem instead of using the OG [LibraryFileSystem FileSystem]
 
+ * Format (Typesafe text formatting)
+
  * SysInfo (retrieves CPU, RAM and OS information)
   * DateTime (Retrieve date & time)
 
