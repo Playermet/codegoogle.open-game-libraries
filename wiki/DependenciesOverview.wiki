@@ -39,14 +39,17 @@ This shows by which libraries these dependencies are used by:
   * Gloot
   * Image
   * Model
- * FileSystem ( I'll try to separate it as much as possible soon )
+ * Shared
   * Audio
   * Console
-  * Common ( optional )
+  * Fable
+  * FileSystem
+  * Font
   * Gloot
   * Image
-   * Font
   * Model
+ * FileSystem
+  * Console
  * Image
   * Font
 
