@@ -47,12 +47,12 @@ system information retrieval and other usefull things that make your everyday ga
  * Misc:
   * Color
 
-== Interface ==
-`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
-
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
  * Ensiform
+
+== Interface ==
+`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
 
 == Dependencies ==
  * [LibraryShared Shared]
