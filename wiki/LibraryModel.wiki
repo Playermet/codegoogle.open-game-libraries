@@ -19,5 +19,5 @@ Model Import for:
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
- * [LibraryCommon Common]
  * [LibraryShared Shared]
+ * [LibraryCommon Common]
