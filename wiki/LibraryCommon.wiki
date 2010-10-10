@@ -43,7 +43,6 @@ system information retrieval and other usefull things that make your everyday ga
    * DeclParser (.decl file parser)
    * XDeclParser (.xdecl file parser)
   * String (UTF-8)
-  * TextStream (for formatting text)
 
  * Misc:
   * Color
