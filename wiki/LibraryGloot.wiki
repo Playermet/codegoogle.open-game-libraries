@@ -40,6 +40,9 @@ Gloot uses some (heavily rewritten) code from GLFW 2.6 ( Camilla Berglund, http:
  * Santo Pfingsten (TTK-Bandit)
  * Some Code used from: [http://glfw.sourceforge.net/ Camilla Berglund]
 
+== Interface ==
+`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Gloot/Gloot.h og/Gloot/Gloot.h]`>`
+
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
