@@ -17,4 +17,5 @@ It will also be possible to access the log & autocompletion features for ingame 
 
 == Dependencies ==
  * [LibraryCommon Common]
- * [LibraryFileSystem FileSystem]
+ * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
+ * [LibraryShared Shared]
