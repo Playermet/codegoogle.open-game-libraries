@@ -45,20 +45,8 @@ system information retrieval and other usefull things that make your everyday ga
   * String (UTF-8)
   * TextStream (for formatting text)
 
- * Thread:
-  * Basic Threading: (some thread helpers until c++0x is usable)
-   * Condition
-   * Mutex
-   * Single-Writer-Multiple-Readers
-   * Thread
-  * LockFreeQueue (use for single producer and single consumer only)
-  * LowLockQueue (multiple producer + multiple consumer)
-
  * Misc:
   * Color
-  * SysInfo (retrieves CPU, RAM and OS information)
-   * DateTime (Retrieve date & time)
-  * Timer (for Profiling)
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
