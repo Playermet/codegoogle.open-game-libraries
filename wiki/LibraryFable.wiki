@@ -8,6 +8,9 @@
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
 
+== Interface ==
+`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Fable/Fable.h og/Common/Fable.h]`>`
+
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
