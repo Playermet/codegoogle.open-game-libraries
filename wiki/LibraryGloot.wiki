@@ -41,5 +41,5 @@ Gloot uses some (heavily rewritten) code from GLFW 2.6 ( Camilla Berglund, http:
  * Some Code used from: [http://glfw.sourceforge.net/ Camilla Berglund]
 
 == Dependencies ==
- * [LibraryCommon Common]
  * [LibraryShared Shared]
+ * [LibraryCommon Common]
