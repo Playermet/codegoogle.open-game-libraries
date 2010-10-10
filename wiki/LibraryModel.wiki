@@ -20,4 +20,4 @@ Model Import for:
 
 == Dependencies ==
  * [LibraryCommon Common]
- * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
+ * [LibraryShared Shared]
