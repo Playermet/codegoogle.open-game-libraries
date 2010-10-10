@@ -9,5 +9,6 @@
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
+ * [LibraryShared Shared]
  * [LibraryCommon Common]
  * [http://msdn.microsoft.com/en-us/directx/default.aspx Direct-X] ( On Win32 )
