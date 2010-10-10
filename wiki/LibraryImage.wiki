@@ -11,7 +11,7 @@
  * Santo Pfingsten (TTK-Bandit)
 
 == Dependencies ==
+ * [LibraryShared Shared]
+ * [LibraryCommon Common]
  * [http://www.ijg.org/ libJPEG]
  * [http://www.libpng.org/pub/png/libpng.html libPNG]
- * [LibraryCommon Common]
- * [LibraryShared Shared]
