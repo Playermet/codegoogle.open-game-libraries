@@ -1,0 +1,18 @@
+#summary Side navigation for the libraries
+
+ * [LibrariesOverview Libraries]
+  * [LibraryAudio Audio]
+  * [LibraryCommon Common]
+  * [LibraryConsole Console]
+  * [LibraryFable Fable]
+  * [LibraryFileSystem FileSystem]
+  * [LibraryFont Font]
+  * [LibraryGloot Gloot]
+  * [LibraryImage Image]
+  * [LibraryModel Model]
+  * [LibraryShared Shared]
+ * [DependenciesOverview Dependencies]
+ * [CurrentStatus Current status]
+ * [RoadMap Road Map]
+ * [Team The Team]
+ * [Contact Conctact & IRC]
