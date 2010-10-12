@@ -1,8 +1,6 @@
 #summary OpenGL window creation and keyboard/mouse input
 #sidebar NavigationLibraries
 
-<wiki:toc max_depth="1" />
-
 == Description ==
 The `Open`*GL* *O*`bject` *O*`riented` *T*`oolkit` is a library similar to SDL, GLFW, SFML, etc,<br/>
 but it is quite different as its sole purpose is to create OpenGL windows, handle monitors and<br/>
