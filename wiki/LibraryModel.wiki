@@ -1,4 +1,5 @@
 #summary Loading 3D Models in a generic way, with import functions for various formats
+#sidebar NavigationLibraries
 
 == Features ==
 
