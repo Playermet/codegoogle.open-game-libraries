@@ -1,4 +1,5 @@
 #summary Easily access files from compressed archive files(zip) or normal files using the same intuitive interface
+#sidebar NavigationLibraries
 
 == Description ==
 The interface is loosely based on idTech's filesystem and has some additional features.<br/>
