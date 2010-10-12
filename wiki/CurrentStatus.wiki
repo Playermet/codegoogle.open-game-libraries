@@ -1,4 +1,5 @@
 #summary Status of the individual libraries:
+#sidebar NavigationLibraries
 
 == Current Status ==
 ( most finished ones first )
