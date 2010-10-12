@@ -1,5 +1,6 @@
 #summary Side navigation for the libraries
 
+ * [License]
  * [LibrariesOverview Libraries]
   * [LibraryAudio Audio]
   * [LibraryCommon Common]
@@ -11,6 +12,10 @@
   * [LibraryImage Image]
   * [LibraryModel Model]
   * [LibraryShared Shared]
+ * [FileTypes Filetype Descriptions]
+  * [ParserFriendlyTextFiles Parser friendly text files]
+  * [DeclFile .decl files]
+  * [XDeclFile .xdecl files]
  * [DependenciesOverview Dependencies]
  * [CurrentStatus Current status]
  * [RoadMap Road Map]
