@@ -1,4 +1,5 @@
 #summary .decl files are Parser Friendly Text Files, containing simple information that can later be accessed using the DeclParser
+#sidebar NavigationLibraries
 
 == Description ==
 
