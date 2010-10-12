@@ -1,4 +1,5 @@
 #summary An overview of all dependencies
+#sidebar NavigationLibraries
 
 == List of dependencies ==
 (3rd party libraries, not needed for all libraries)
