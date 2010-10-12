@@ -1,4 +1,5 @@
 #summary Shared components to lighten the dependencies
+#sidebar NavigationLibraries
 
 == Features ==
 
