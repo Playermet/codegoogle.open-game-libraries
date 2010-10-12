@@ -1,0 +1,6 @@
+#summary What it's all about
+#sidebar NavigationLibraries
+
+= The Open Game Libraries =
+
+..to be written.
