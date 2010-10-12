@@ -1,7 +1,10 @@
 #summary Side navigation for the libraries
 
- * [License]
- * [LibrariesOverview Libraries]
+ * [About]
+  * [License]
+  * [Team The Team]
+  * [Contact Conctact & IRC]
+ * [LibrariesOverview Open Game Libraries]
   * [LibraryAudio Audio]
   * [LibraryCommon Common]
   * [LibraryConsole Console]
@@ -19,5 +22,3 @@
  * [DependenciesOverview Dependencies]
  * [CurrentStatus Current status]
  * [RoadMap Road Map]
- * [Team The Team]
- * [Contact Conctact & IRC]
