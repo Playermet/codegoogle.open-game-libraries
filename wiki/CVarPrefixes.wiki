@@ -1,0 +1,25 @@
+#summary Recommendations on CVar prefixes
+
+== Incomplete Recommendations ==
+(need additional thought)
+
+|| *Prefix* || *Recommended Flags* || *Description* ||
+|| `info_` || CVAR_ROM || Informations, like game version, build date, etc.. ||
+|| `sys_` || CVAR_ROM || Detected hardware info, like cpu, gpu, ram, etc.. ||
+|| `dev_` || CVAR_DEVELOPER || Developer settings || 
+|| `com_` || CVAR_ENGINE || Engine CVars, but not one of the following: ||
+|| `r_` || CVAR_RENDERER || Renderer settings, except image settings || 
+|| `img_` || CVAR_RENDERER || image (quality,..) settings || 
+|| `s_` || CVAR_SOUND || Audio/Sound settings ||
+|| `in_` || CVAR_INPUT || Input settings || 
+|| `net_` || CVAR_NETWORK || Network settings || 
+|| `ns_` || CVAR_NETSYNC ||  Synced over network instantly ||
+|| `g_` || CVAR_GAME || Game module CVars, except for physics || 
+|| `phys_` || CVAR_GAME || Physics settings || 
+|| `feed_` || CVAR_BROWSERFEED || Info for the serverbrowser only || 
+|| `si_` || CVAR_SERVERINFO || General server information || 
+|| `cl_` || CVAR_CLIENT || Client/User setttings || 
+|| `fs_` || CVAR_ENGINE || Filesystem settings || 
+|| `gui_` || ? || Graphical User Interface || 
+|| `hud_` || ? || Heads Up Display || 
+|| `ai_` || CVAR_GAME || Artificial Intelligence || 
