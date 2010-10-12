@@ -1,4 +1,5 @@
 #summary .xdecl files are Parser Friendly Text Files containing nested information that can later be accessed using the XDeclParser
+#sidebar NavigationLibraries
 
 == Description ==
 
