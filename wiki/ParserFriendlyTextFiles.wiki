@@ -1,4 +1,5 @@
 #summary Definition of how text files are parsed
+#sidebar NavigationLibraries
 
 == About ==
 
