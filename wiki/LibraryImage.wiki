@@ -1,4 +1,5 @@
 #summary Lightweight library for loading ( and saving ) image files into OpenGL with various loading options
+#sidebar NavigationLibraries
 
 == Features ==
  * TGA, PNG, JPEG, DDS file loading
