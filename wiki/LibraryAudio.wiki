@@ -1,4 +1,5 @@
 #summary Really easy to use Interface for using OpenAL to play 3D audio
+#sidebar NavigationLibraries
 
 == Features ==
  * Ogg/Vorbis & Wave file loading
