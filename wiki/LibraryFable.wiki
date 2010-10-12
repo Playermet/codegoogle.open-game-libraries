@@ -1,4 +1,5 @@
 #summary Force, Axis, Buttons Light and Easy ( simply said gamepad input management )
+#sidebar NavigationLibraries
 
 == Details ==
  * Win32 DirectInput and XInput working together ( XInput comes first )
