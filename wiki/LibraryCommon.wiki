@@ -1,4 +1,5 @@
 #summary Common classes and algorithms for game development
+#sidebar NavigationLibraries
 
 == Description ==
 The *Common* library is the first Library we worked on.<br/>
