@@ -1,4 +1,5 @@
 #summary Developer Console with customizable commands and variables
+#sidebar NavigationLibraries
 
 == Description ==
 The *Console* library consists of 3 parts:
