@@ -1,4 +1,5 @@
 #summary License, Copyright and Authors
+#sidebar NavigationLibraries
 
 = The Open Game Libraries. =
  * © 2002-2006 Camilla Berglund (for parts taken from glfw)
