@@ -1,4 +1,5 @@
 #summary Display bitmapped fonts with kerning and unicode support
+#sidebar NavigationLibraries
 
 == Features ==
  * Reads AngelCodes binary [http://www.angelcode.com/products/bmfont/ Bitmap Font] file format.
