@@ -2,6 +2,7 @@
 
  * [About]
   * [License]
+  * [Copyright]
   * [Team The Team]
   * [Contact Conctact & IRC]
  * [LibrariesOverview Open Game Libraries]
