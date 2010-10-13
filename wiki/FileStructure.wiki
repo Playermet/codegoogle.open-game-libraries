@@ -1,4 +1,5 @@
 #summary This section is a recommendation on where to store resources
+#sidebar NavigationLibraries
 
 == Global Folders ==
  * *Game* folder
