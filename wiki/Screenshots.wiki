@@ -1,4 +1,5 @@
 #summary Some screenshots of the demos that come with the libraries
+#sidebar NavigationLibraries
 
 == Multiple Windows ==
 http://www.roughael.net/multiwindow.png
