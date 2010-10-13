@@ -1,4 +1,5 @@
 #summary Recommendations on CVar prefixes
+#sidebar NavigationLibraries
 
 == Incomplete Recommendations ==
 (need additional thought)
