@@ -1,4 +1,5 @@
 #summary What exactly is rounddown and picmip ?
+#sidebar NavigationLibraries
 
 == RoundDown ==
 When an image width or height is not a power of 2, it will be resized to the closest power of 2.<br/>
