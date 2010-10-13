@@ -1,13 +1,5 @@
-#summary License, Copyright and Authors
+#summary License
 #sidebar NavigationLibraries
-
-= The Open Game Libraries. =
- * © 2002-2006 Camilla Berglund (for parts taken from glfw)
- * © 2007-2010 Lusito Software
-
-== Programmers: ==
- * Santo Pfingsten (TTK-Bandit)
- * Ensiform
 
 == zLib/PNG License: ==
 {{{
