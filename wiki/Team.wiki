@@ -1,0 +1,16 @@
+#summary The current and past team members
+#sidebar NavigationLibraries
+
+== Active Team Members ==
+
+ * Santo Pfingsten (TTK-Bandit)
+
+== Inactive Team Members ==
+ * Ensiform
+
+== Help Wanted ==
+We're currently looking for help to work on the libraries.<br/>
+This is an Open-Source Non-Profit project, so don't expect to get paid.<br/>
+If you are interested, send an email to core {-at-} roughael.net with the following content:
+ * A little info on yourself, your prior experience, etc..
+ * What part of the project you'd like to work on.
