@@ -1,8 +1,10 @@
-#summary License
+#summary License & Copyrights
 #sidebar NavigationLibraries
 
-== zLib/PNG License: ==
+== Our code is released under the zLib/PNG License: ==
 {{{
+Copyright (c) 2007-2010 Lusito Software
+
 This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any damages
 arising from the use of this software.
@@ -21,3 +23,17 @@ freely, subject to the following restrictions:
 
 3. This notice may not be removed or altered from any source distribution.
 }}}
+
+== Additional Copyright ==
+( For parts of the code, which were not developed for the Open Game Libraries )
+ * © 2002-2006 Camilla Berglund (for parts taken from [http://www.glfw.org/ GLFW 2.6])
+ * © 1997-2002, Makoto Matsumoto and Takuji Nishimura ( [http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html Random number generator] )
+ * © 2005 Adrien Pinet ( [http://www.codeproject.com/KB/security/CSHADigest.aspx original SHA1 code] )
+ * © 1991-? chongo <Landon Curt Noll> ( [http://www.isthe.com/chongo/tech/comp/fnv/ FVN Hash] (Fowler/Noll/Vo) )
+
+== Additional licenses used ==
+ * [http://www.opensource.org/licenses/bsd-license.php BSD License] for the Random number generator
+ * [http://www.opensource.org/licenses/bsd-license.php BSD License] for ogg/vorbis
+ * [http://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt LGPL 2.0 License] for OpenAL Soft
+ * [http://code.google.com/p/open-game-libraries/source/browse/trunk/Thirdparty/jpeg/README Jpeg License]
+ * [http://www.opensource.org/licenses/mit-license.html MIT License] and [http://www.opensource.org/licenses/bsd-license.php BSD License] for GLEW ( some examples use it, the OG libraries don't )
