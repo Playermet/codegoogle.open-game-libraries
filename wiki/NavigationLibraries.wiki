@@ -3,7 +3,6 @@
  * [About]
   * [Screenshots]
   * [License License & Copyright]
-  * [Copyright]
   * [Team The Team]
   * [Contact Conctact & IRC]
  * [CurrentStatus Open Game Libraries]
