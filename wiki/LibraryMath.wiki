@@ -1,0 +1,24 @@
+#summary Math classes and functions, Color class and Hashing algorithms
+#sidebar NavigationLibraries
+
+== Description ==
+The *Math* library was originally part of the [LibraryCommon Common Library].<br/>
+I decided to make it a separate library and also added the Color and Hashing code.<br/>
+
+== Classes and Features ==
+
+ * Color ( stores and converts r, g, b, a values )
+
+ * Hash:
+  * Hash ( Compute 32 and 64 bit hashes of strings )
+  * SecureHash ( Secure Hash Algorithm: SHA1 )
+
+ * Math (Fast Game-specific Calculation):
+  * Angles (pitch, yaw, roll)
+  * Bounds (mins/maxs)
+  * Matrix classes (2x2, 3x3)
+  * Vector classes (2, 3, 4, 5, X dimensions)
+  * Quat (quaternions)
+  * Random number generator
+  * Rect (for gui/hud stuff)
+  * Lots of speed optimized Math functions & constants
