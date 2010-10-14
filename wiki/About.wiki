@@ -1,6 +1,29 @@
 #summary What it's all about
 #sidebar NavigationLibraries
 
-= The Open Game Libraries =
+= Team Lusito Presents: =
+*The Open Game Libraries*, a set of Intuitive C++ libraries for creating games (released under the [License zLib/PNG License]).<br/>
+We're focusing on performance, simplicity and being as lightweight as possible.
 
-..to be written.
+Alphabetic order:
+ * [LibraryAudio Audio] - OpenAL audio management ( loading sounds from ogg/wav, positioning them, setting attributes, etc. )
+ * [LibraryCommon Common] - Generic classes and objects for game development ( containers, text processing, etc. )
+ * [LibraryConsole Console] - Developer console window with support for Commands and variables
+ * [LibraryFable Fable] - Force, Axis, Buttons Light and Easy ( simply said gamepad input management )
+ * [LibraryFileSystem FileSystem] - Compressed zip file loading with a few neat features for multiplayer games.
+ * [LibraryFont Font] - Bitmapped Font loading and drawing ( Unicode + Kerning support )
+ * [LibraryGloot Gloot] - (OpenGL Object Oriented Toolkit), OpenGL window creation and keyboard/mouse input.
+ * [LibraryImage Image] - OpenGL image loading and saving
+ * [LibraryMath Math] - Vector, Matrix, Quaternions, Color, Hashing, etc..
+ * [LibraryModel Model] - Loading 3D Models in a generic way, with import functions for various formats ( ASE, MD3, MD5, SKM, SMD )
+ * [LibraryShared Shared] - Shared parts to lighten the dependencies
+
+For more details and Tutorials, check out the [CurrentStatus Wiki]<br/>
+( The names of these libraries are not final yet, if you have better suggestions, please tell me )
+
+== Latest News ==
+ * We have an IRC channel on irc.quakenet.org: #open.game.libraries
+ * We are looking for C++ developers: [HelpWanted Help Wanted]
+
+== Icon Credits ==
+ * Joystick icon made by [http://sa-ki.deviantart.com/ Alexandre Moore]
