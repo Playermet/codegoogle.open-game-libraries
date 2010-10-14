@@ -22,3 +22,6 @@ I decided to make it a separate library and also added the Color and Hashing cod
   * Random number generator
   * Rect (for gui/hud stuff)
   * Lots of speed optimized Math functions & constants
+
+== Dependencies ==
+ * [LibraryShared Shared]
