@@ -15,4 +15,5 @@
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
+ * [LibraryMath Math]
  * [http://msdn.microsoft.com/en-us/directx/default.aspx Direct-X] ( On Win32 )
