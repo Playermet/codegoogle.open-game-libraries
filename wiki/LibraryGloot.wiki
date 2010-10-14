@@ -47,3 +47,4 @@ Gloot uses some (heavily rewritten) code from GLFW 2.6 ( Camilla Berglund, http:
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
+ * [LibraryMath Math]
