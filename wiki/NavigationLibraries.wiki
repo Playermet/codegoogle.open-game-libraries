@@ -2,7 +2,7 @@
 
  * [About]
   * [Screenshots]
-  * [License]
+  * [License License & Copyright]
   * [Copyright]
   * [Team The Team]
   * [Contact Conctact & IRC]
