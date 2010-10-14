@@ -4,6 +4,7 @@
   * [Screenshots]
   * [License License & Copyright]
   * [Team The Team]
+  * [HelpWanted Help Wanted]
   * [Contact Conctact & IRC]
  * [CurrentStatus Open Game Libraries]
   * [LibraryAudio Audio]
