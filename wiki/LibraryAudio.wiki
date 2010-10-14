@@ -2,8 +2,10 @@
 #sidebar NavigationLibraries
 
 == Features ==
- * Ogg/Vorbis & Wave file loading
- * Different sound properties stored in [DeclFile .decl] files.
+ * Surround sound via OpenAL Soft
+ * Ogg/Vorbis & Wave file loading ( streamed )
+ * Multichannel audioemitters with support for directional mode
+ * Device enumeration
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
@@ -14,5 +16,6 @@
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
+ * [LibraryMath Math]
  * [http://www.vorbis.com/ libOgg / libVorbis]
  * [http://kcat.strangesoft.net/openal.html OpenAL Soft]
