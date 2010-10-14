@@ -19,7 +19,7 @@
   * [LibraryImage Image]
    * [ImageQuality Image Quality]
   * [LibraryModel Math]
-  * [LibraryModel Model]
+  * [LibraryMath Model]
   * [LibraryShared Shared]
  * [FileTypes Filetype Descriptions]
   * [ParserFriendlyTextFiles Parser Friendly Text Files]
