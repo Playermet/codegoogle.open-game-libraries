@@ -22,4 +22,5 @@ It will also be possible to access the log & autocompletion features for ingame 
 == Dependencies ==
  * [LibraryShared Shared]
  * [LibraryCommon Common]
+ * [LibraryMath Math]
  * [LibraryFileSystem FileSystem] ( I'll try to get rid of this dependency )
