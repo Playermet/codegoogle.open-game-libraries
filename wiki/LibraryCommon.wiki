@@ -5,8 +5,9 @@
 The *Common* library is the first Library we worked on.<br/>
 Back then it was named ogShared. We renamed it when refactoring the code.<br/>
 This library contains various classes and functions for creating games.<br/>
-This library contains various container types, math objects, string processing,<br/>
-system information retrieval and other usefull things that make your everyday game code a lot easier.
+This library contains various container types, string processing,<br/>
+and other usefull things that make your everyday game code a lot easier.<br/>
+The math part of this library has been separated into a new Library [LibraryMath Math].
 
 == Classes and Features ==
 
@@ -24,29 +25,12 @@ system information retrieval and other usefull things that make your everyday ga
   * StringPool/PoolString (store less copies of often used strings in memory)
   * Queue/Stack (push & pop lists)
 
- * Hash:
-  * Hash ( Compute 32 and 64 bit hashes of strings )
-  * SecureHash ( Secure Hash Algorithm: SHA1 )
-
- * Math (Fast Game-specific Calculation):
-  * Angles (pitch, yaw, roll)
-  * Bounds (mins/maxs)
-  * Matrix classes (2x2, 3x3)
-  * Vector classes (2, 3, 4, 5, X dimensions)
-  * Quat (quaternions)
-  * Random number generator
-  * Rect (for gui/hud stuff)
-  * Lots of speed optimized Math functions & constants
-
  * Text:
   * Lexer (UTF-8 text file parser)
   * Parsers:
    * DeclParser (.decl file parser)
    * XDeclParser (.xdecl file parser)
   * String (UTF-8)
-
- * Misc:
-  * Color
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
@@ -57,3 +41,4 @@ system information retrieval and other usefull things that make your everyday ga
 
 == Dependencies ==
  * [LibraryShared Shared]
+ * [LibraryMath Math]
