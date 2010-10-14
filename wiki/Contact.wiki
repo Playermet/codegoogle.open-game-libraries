@@ -1,0 +1,6 @@
+#summary Contact information
+#sidebar NavigationLibraries
+
+= Contact information =
+ * E-Mail: *core {-at-} roughael.net*
+ * IRC channel on irc.quakenet.org: #open.game.libraries
