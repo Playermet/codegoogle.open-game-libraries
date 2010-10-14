@@ -18,6 +18,7 @@
   * [LibraryGloot Gloot]
   * [LibraryImage Image]
    * [ImageQuality Image Quality]
+  * [LibraryModel Math]
   * [LibraryModel Model]
   * [LibraryShared Shared]
  * [FileTypes Filetype Descriptions]
