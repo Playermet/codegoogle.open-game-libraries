@@ -11,6 +11,12 @@ This is needed by all libraries, gives commonly used features like FileSystemCor
 
  * Format (Typesafe text formatting)
 
+ * Hash:
+  * FNV( Compute 32 and 64 bit hashes of strings )
+  * SecureHash ( Secure Hash Algorithm: SHA1 )
+
+ * String (UTF-8)
+
  * SysInfo (retrieves CPU, RAM and OS information)
   * DateTime (Retrieve date & time)
 
