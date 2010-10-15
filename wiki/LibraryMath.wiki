@@ -9,10 +9,6 @@ I decided to make it a separate library and also added the Color and Hashing cod
 
  * Color ( stores and converts r, g, b, a values )
 
- * Hash:
-  * Hash ( Compute 32 and 64 bit hashes of strings )
-  * SecureHash ( Secure Hash Algorithm: SHA1 )
-
  * Math (Fast Game-specific Calculation):
   * Angles (pitch, yaw, roll)
   * Bounds (mins/maxs)
