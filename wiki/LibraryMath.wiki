@@ -3,7 +3,7 @@
 
 == Description ==
 The *Math* library was originally part of the [LibraryCommon Common Library].<br/>
-I decided to make it a separate library and also added the Color and Hashing code.<br/>
+I decided to make it a separate library and also added the Color code.<br/>
 
 == Classes and Features ==
 
