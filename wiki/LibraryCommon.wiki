@@ -30,7 +30,6 @@ The math part of this library has been separated into a new Library [LibraryMath
   * Parsers:
    * DeclParser (.decl file parser)
    * XDeclParser (.xdecl file parser)
-  * String (UTF-8)
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
@@ -41,4 +40,3 @@ The math part of this library has been separated into a new Library [LibraryMath
 
 == Dependencies ==
  * [LibraryShared Shared]
- * [LibraryMath Math]
