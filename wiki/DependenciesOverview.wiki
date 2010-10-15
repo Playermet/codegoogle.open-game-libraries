@@ -31,6 +31,7 @@ This shows by which libraries these dependencies are used by:
   * Fable
  * Visual Leak Detector 2.0b
   * All OG Libraries
+ * Shared - Needed by all OG Libraries
  * Common
   * Audio
   * Console
@@ -40,15 +41,13 @@ This shows by which libraries these dependencies are used by:
   * Gloot
   * Image
   * Model
- * Shared
-  * Audio
-  * Console
-  * Fable
-  * FileSystem
+ * Math
   * Font
-  * Gloot
-  * Image
   * Model
+  * Image
+  * Audio
+  * Fable
+  * Gloot
  * FileSystem
   * Console
  * Image
@@ -57,6 +56,11 @@ This shows by which libraries these dependencies are used by:
 That Common is used by all OG Libraries does not mean that they are needed in the interface of those libraries too.<br/>
 For example you don't need to use classes from the Common library to access the Gloot interface.<br/>
 This shows which libraries actually use classes from the Common library in their interface:
+ * Audio
+ * Console
+ * Model
+
+The same goes for the Math Library:
  * Audio
  * Console
  * Model
