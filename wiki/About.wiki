@@ -14,7 +14,7 @@ Alphabetic order:
  * [LibraryFont Font] - Bitmapped Font loading and drawing ( Unicode + Kerning support )
  * [LibraryGloot Gloot] - (OpenGL Object Oriented Toolkit), OpenGL window creation and keyboard/mouse input.
  * [LibraryImage Image] - OpenGL image loading and saving
- * [LibraryMath Math] - Vector, Matrix, Quaternions, Color, Hashing, etc..
+ * [LibraryMath Math] - Vector, Matrix, Quaternions, Color, etc..
  * [LibraryModel Model] - Loading 3D Models in a generic way, with import functions for various formats ( ASE, MD3, MD5, SKM, SMD )
  * [LibraryShared Shared] - Shared parts to lighten the dependencies
 
