@@ -5,11 +5,3 @@
   * keep the OS functions out of the OG headers (eg. do not #include <pthread.h> in a header file). OS specific headers should always stay out of the headers that are used by OG. if you need those headers, try to move them into the .cpp files or into a header that is only used internally within the library.
 
   * Try to avoid using the og_ prefix unless you have name collisions that can't be solved nicer.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
