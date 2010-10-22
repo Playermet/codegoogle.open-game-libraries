@@ -26,6 +26,7 @@
   * [DeclFile .decl files]
   * [XDeclFile .xdecl files]
  * [Guides Guides & Tutorials]
+  * [Conventions Followed]
   * [GettingStartedWin32 Setup for Win32]
  * [DependenciesOverview Dependencies]
  * [RoadMap Road Map]
