@@ -12,8 +12,9 @@ This is not working with OpenGL 3, tho I'd like to add support for it.
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
 
-== Interface ==
-`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Font/Font.h og/Font/Font.h]`>`
+== Includes ==
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Font/Font.h og/Font/Font.h]`>`
+  * Includes everything needed 
 
 == Dependencies ==
  * [LibraryShared Shared]

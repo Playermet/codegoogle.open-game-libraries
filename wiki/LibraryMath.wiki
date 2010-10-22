@@ -19,5 +19,13 @@ I decided to make it a separate library and also added the Color code.<br/>
   * Rect (for gui/hud stuff)
   * Lots of speed optimized Math functions & constants
 
+== List of authors ==
+ * Santo Pfingsten (TTK-Bandit)
+ * Ensiform
+ 
+== Includes ==
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Math/Math.h og/Math/Math.h]`>`
+  * Includes everything needed
+  
 == Dependencies ==
  * [LibraryShared Shared]

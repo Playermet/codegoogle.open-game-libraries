@@ -11,8 +11,9 @@
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
 
-== Interface ==
-`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Image/Image.h og/Image/Image.h]`>`
+== Includes ==
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Image/Image.h og/Image/Image.h]`>`
+  * Includes everything needed
 
 == Dependencies ==
  * [LibraryShared Shared]

@@ -35,8 +35,9 @@ The math part of this library has been separated into a new Library [LibraryMath
  * Santo Pfingsten (TTK-Bandit)
  * Ensiform
 
-== Interface ==
-`#include <`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
+== Includes ==
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
+  * Includes everything needed 
 
 == Dependencies ==
  * [LibraryShared Shared]
