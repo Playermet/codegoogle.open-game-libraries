@@ -22,5 +22,5 @@ That's why we are always looking for C++ developers.<br/>
  * A little info on yourself, your prior experience, etc..
  * What part of the project you'd like to work on.
 
-You can get more info on our IRC channel on irc.quakenet.org: #open.game.libraries
+You can get more info on our IRC channel on irc.quakenet.org: #open.game.libraries<br/>
 A browser IRC client ( no plugins needed ) is available [http://webchat.quakenet.org/ here].
