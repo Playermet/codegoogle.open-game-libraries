@@ -23,6 +23,7 @@ For more details and Tutorials, check out the [CurrentStatus Wiki]<br/>
 
 == Latest News ==
  * We have an IRC channel on irc.quakenet.org: #open.game.libraries
+  * A browser IRC client ( no plugins needed ) is available here: [http://webchat.quakenet.org/]
  * We are looking for C++ developers: [HelpWanted Help Wanted]
 
 == Icon Credits ==
