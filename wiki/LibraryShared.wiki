@@ -20,15 +20,6 @@ This is needed by all libraries, gives commonly used features like FileSystemCor
  * SysInfo (retrieves CPU, RAM and OS information)
   * DateTime (Retrieve date & time)
 
- * Thread:
-  * Basic Threading: (some thread helpers until c++0x is usable)
-   * Condition
-   * Mutex
-   * Single-Writer-Multiple-Readers
-   * Thread
-  * LockFreeQueue (use for single producer and single consumer only)
-  * LowLockQueue (multiple producer + multiple consumer)
-
  * Timer (for Profiling)
 
 == List of authors ==
@@ -44,12 +35,6 @@ This is needed by all libraries, gives commonly used features like FileSystemCor
   * Basic Interface for FileSystem Access, also includes File.h
  * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/File.h og/Shared/File.h]`>`
   * Basic File Interface ( read/write )
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/Thread/Thread.h og/Shared/Thread/Thread.h]`>`
-  * Threads interface
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/Thread/LockFreeQueue.h og/Shared/Thread/LockFreeQueue.h]`>`
-  * LockFreeQueue and LowLockQueue
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/Thread/ThreadLocalStorage.h og/Shared/Thread/ThreadLocalStorage.h]`>`
-  * Thread Local Storage
   
 == Dependencies ==
  * None
