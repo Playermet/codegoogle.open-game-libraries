@@ -3,9 +3,12 @@
 
 == Features ==
  * Surround sound via OpenAL Soft
- * Ogg/Vorbis & Wave file loading ( streamed )
- * Multichannel audioemitters with support for directional mode
  * Device enumeration
+ * Ogg/Vorbis & Wave file loading ( streamed )
+ * Multichannel audio emitters
+ * Directional speakers
+ * Doppler effects
+ * Soon environmental effects
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
