@@ -13,7 +13,7 @@ This is not working with OpenGL 3, tho I'd like to add support for it.
  * Santo Pfingsten (TTK-Bandit)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Font/Font.h og/Font/Font.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Font.h og/Font.h]`>`
   * Includes everything needed 
 
 == Dependencies ==

@@ -42,7 +42,7 @@ Gloot uses some (heavily rewritten) code from GLFW 2.6 ( Camilla Berglund, http:
  * Some Code used from: [http://glfw.sourceforge.net/ Camilla Berglund]
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Gloot/Gloot.h og/Gloot/Gloot.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Gloot.h og/Gloot.h]`>`
   * Includes everything except for glmin.h
  * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Gloot/Input.h og/Gloot/Input.h]`>`
   * Only the input specific part of Gloot ( in case you don't want to expose the rest to some part of your code )

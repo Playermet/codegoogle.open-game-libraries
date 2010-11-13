@@ -24,7 +24,7 @@ I decided to make it a separate library and also added the Color code.<br/>
  * Ensiform
  
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Math/Math.h og/Math/Math.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Math.h og/Math.h]`>`
   * Includes everything needed
   
 == Dependencies ==

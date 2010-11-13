@@ -17,7 +17,7 @@ It will also be possible to access the log & autocompletion features for ingame 
  * Santo Pfingsten (TTK-Bandit)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Console/Console.h og/Console/Console.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Console.h og/Console.h]`>`
   * Includes everything needed 
 
 == Dependencies ==

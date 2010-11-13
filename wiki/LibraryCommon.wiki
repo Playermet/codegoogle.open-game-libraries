@@ -47,7 +47,7 @@ The math part of this library has been separated into a new Library [LibraryMath
  * George Alysan (Muggen)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common.h og/Common.h]`>`
   * Includes everything except the following
  * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Thread/Thread.h og/Common/Thread/Thread.h]`>`
   * Threads interface

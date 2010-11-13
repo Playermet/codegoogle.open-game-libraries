@@ -14,7 +14,7 @@
  * Santo Pfingsten (TTK-Bandit)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Audio/AudioSystem.h og/Audio/AudioSystem.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Audio.h og/Audio.h]`>`
   * Includes everything needed
 
 == Dependencies ==

@@ -10,7 +10,7 @@
  * Santo Pfingsten (TTK-Bandit)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Fable/Fable.h og/Fable/Fable.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Fable.h og/Fable.h]`>`
   * Includes everything needed 
 
 == Dependencies ==

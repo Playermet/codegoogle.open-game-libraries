@@ -19,7 +19,7 @@ So if you are currently using idTech's filesystem, you should be able to easily 
  * Santo Pfingsten (TTK-Bandit)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/FileSystem/FileSystem.h og/FileSystem/FileSystem.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/FileSystem.h og/FileSystem.h]`>`
   * Includes everything needed, also includes:
   * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/FileSystemCore.h og/Shared/FileSystemCore.h]`>` and
   * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Shared/File.h og/Shared/File.h]`>`

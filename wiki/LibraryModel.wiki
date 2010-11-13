@@ -20,7 +20,7 @@ Model Import for:
  * Santo Pfingsten (TTK-Bandit)
 
 == Includes ==
- * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Model/Model.h og/Model/Model.h]`>`
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Model.h og/Model.h]`>`
   * Includes everything needed 
   
 == Dependencies ==
