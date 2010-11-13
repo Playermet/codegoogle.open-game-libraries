@@ -44,6 +44,7 @@ The math part of this library has been separated into a new Library [LibraryMath
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
  * Ensiform
+ * George Alysan (Muggen)
 
 == Includes ==
  * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
