@@ -47,7 +47,17 @@ The math part of this library has been separated into a new Library [LibraryMath
 
 == Includes ==
  * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Common.h og/Common/Common.h]`>`
-  * Includes everything needed 
+  * Includes everything except the following
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Thread/Thread.h og/Common/Thread/Thread.h]`>`
+  * Threads interface
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Thread/LockFreeQueue.h og/Common/Thread/LockFreeQueue.h]`>`
+  * LockFreeQueue and LowLockQueue
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Thread/ThreadLocalStorage.h og/Common/Thread/ThreadLocalStorage.h]`>`
+  * Thread Local Storage
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Thread/JobManager.h og/Common/Thread/JobManager.h]`>`
+  * Job Manager
+ * `<`[http://code.google.com/p/open-game-libraries/source/browse/trunk/Libraries/Include/og/Common/Thread/PreloadManager.h og/Common/Thread/PreloadManager.h]`>`
+  * Preload Manager
 
 == Dependencies ==
  * [LibraryShared Shared]
