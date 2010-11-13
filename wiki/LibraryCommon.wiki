@@ -31,6 +31,16 @@ The math part of this library has been separated into a new Library [LibraryMath
    * DeclParser (.decl file parser)
    * XDeclParser (.xdecl file parser)
 
+ * Thread helpers:
+  * C++0x oriented thread design using boost::threads until the compilers support c++0x.
+  * Enhanced thread handling
+  * Thread local storage
+  * Multithreaded job manager
+  * Multithreaded preload manager
+  * Lock free queue ( single producer / single consumer )
+  * Low lock queue ( multi producer / multi consumer )
+  * Event queue
+
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
  * Ensiform
@@ -41,3 +51,4 @@ The math part of this library has been separated into a new Library [LibraryMath
 
 == Dependencies ==
  * [LibraryShared Shared]
+ * boost::threads ( just until c++0x is ready )
