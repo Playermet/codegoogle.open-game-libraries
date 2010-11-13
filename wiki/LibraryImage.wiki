@@ -6,7 +6,9 @@
  * TGA, PNG, JPEG file storing
  * [ImageQuality RoundDown and PicMip] at load time 
  * Min/Mag filter changes in runtime
- * Reload All Images (when changes where done or the gl context was lost)
+ * Reload all images (when changes where done or the gl context was lost)
+ * Preload images in separate threads using the PreloadManager
+ * Reload images using the PreloadManager (optional)
 
 == List of authors ==
  * Santo Pfingsten (TTK-Bandit)
