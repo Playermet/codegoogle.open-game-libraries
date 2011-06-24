@@ -10,7 +10,7 @@
  * [http://kcat.strangesoft.net/openal.html OpenAL Soft]
  * [http://www.opengl.org/ OpenGL]
  * [http://msdn.microsoft.com/en-us/directx/default.aspx Direct-X]
- * [http://vld.codeplex.com/ Visual Leak Detector 2.0b] ( optional )
+ * [http://vld.codeplex.com/ Visual Leak Detector 2.1] ( optional )
 
 == Details ==
 
